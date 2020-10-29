@@ -1,3 +1,3 @@
 CursoCV-GitieGithub
 
-Primeiro repositorio do curso.
+Primeiro repósitorio do curso.
