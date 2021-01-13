@@ -1,3 +1,3 @@
-# CursoCV-GitieGithub
+# CursoCV-GitieGithub (curso em video)
 
 Primeiro *repósitorio* do curso **git e github**.
